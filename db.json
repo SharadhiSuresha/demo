@@ -79,6 +79,7 @@
       "previousPolicyExpiryDate": null
     }
   ],
+
   "advisories": [
     {
       "date": "2020-03-27T00:00:00",
@@ -132,29 +133,45 @@
       "code": null,
       "advice": null
     },
-     {
+    {
+      "date": "2020-04-02",
+      "country": "Italy",
+      "regions": [
+        {
+          "name": "Lombardy",
+          "date": "2020-02-21T00:00:00",
+          "locationType": "Region",
+          "code": "DNT",
+          "advice": "FCO advises against all but essential travel"
+        }
+      ],
+      "code": null,
+      "advice": "FCO advises against all but essential travel"
+    },
+    {
+      "date": "2020-03-27T00:00:00",
+      "country": "France",
+      "regions": [],
+      "code": "DNT",
+      "advice": "FCO advises against all but essential travel"
+    },
+      {
     "date": "2020-04-21T00:00:00",
     "country": "Italy",
-    "regions": [
+   "regions": [
       {
         "name": "Lombardy",
-        "date": "2020-03-18T00:00:00",
+        "date": "2020-02-21T00:00:00",
         "locationType": "Region",
         "code": "DNT",
         "advice": "FCO advises against all but essential travel"
-      }, 
-      {
-        "name": "Lombardy",
-        "date": "2020-04-21T00:00:00",
-        "locationType": "Region",
-        "code": "DNT",
-        "advice": "No advices for this date"
-      }, 
+      }
     ],
     "code": "DNT",
     "advice": "FCO advises against all but essential travel"
   }
   ],
+
   "chatbotAnswers": [
     {
       "number": "1.0",
@@ -169,8 +186,4 @@
       "link": "/link/advice/1.1"
     }
   ]
-
 }
-
-  
-
