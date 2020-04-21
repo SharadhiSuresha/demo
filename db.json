@@ -161,10 +161,17 @@
    "regions": [
       {
         "name": "Lombardy",
-        "date": "2020-02-21T00:00:00",
+        "date": "2020-03-18T00:00:00",
         "locationType": "Region",
         "code": "DNT",
         "advice": "FCO advises against all but essential travel"
+      },
+      {
+        "name": "Lombardy",
+        "date": "2020-04-21T00:00:00",
+        "locationType": "Region",
+        "code": "DNT",
+        "advice": "Updated advice"
       }
     ],
     "code": "DNT",
