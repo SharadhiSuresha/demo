@@ -99,6 +99,17 @@
       "travelArea": "Europe",
       "previousPolicyNumber": "STD123",
       "previousPolicyExpiryDate": null
+    },
+    {
+      "policyStatus": "N",
+      "tripType": "AMT",
+      "id": "25012541",
+      "issueDate": "2020-03-10",
+      "startDate": "2020-03-10",
+      "endDate": "2021-03-09",
+      "travelArea": "Europe",
+      "previousPolicyNumber": "STD123",
+      "previousPolicyExpiryDate": null
     }
   ],
 
